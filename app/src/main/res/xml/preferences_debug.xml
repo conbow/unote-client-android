@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/debug">
+
+        <CheckBoxPreference
+            android:key="@string/key_pref_debug"
+            android:title="@string/debug"
+            android:summary="@string/toggle_debugging" />
+
+        <EditTextPreference
+            android:key="@string/key_pref_session_token"
+            android:title="@string/session_token"
+            android:dialogTitle="@string/session_token" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

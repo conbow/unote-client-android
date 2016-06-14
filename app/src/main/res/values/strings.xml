@@ -1,0 +1,84 @@
+<resources>
+
+    <string name="app_name">uNote</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Custom -->
+
+    <!-- Feedback -->
+    <string name="an_unkown_error_has_occurred">An unknown error has occurred</string>
+    <string name="network_error">Network error</string>
+    <string name="incorrect_login_information">Incorrect login information</string>
+    <string name="email_is_already_in_use">E-mail is already in use</string>
+    <string name="account_created">Account created</string>
+    <string name="email_is_not_registered">E-mail is not registered</string>
+    <string name="password_reset_email_sent">Password reset email sent</string>
+    <string name="note_not_found">Note not found</string>
+    <string name="note_saved">Note saved</string>
+    <string name="you_have_no_notes">You have no notes</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="successfully_logged_out">Successfully logged out</string>
+    <string name="your_session_has_expired">Your session has expired</string>
+
+    <!-- Input feedback -->
+    <string name="email_is_required">E-mail is required</string>
+    <string name="email_is_invalid">E-mail is invalid</string>
+    <string name="password_is_required">Password is required</string>
+    <string name="password_requirements">Use at least 8 characters. Include both an uppercase letter and a number.</string>
+    <string name="confirm_password_is_required">Confirm password is required</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="title_is_required">Title is required</string>
+    <string name="body_is_required">Body is required</string>
+
+
+    <!-- Short -->
+    <string name="login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="dont_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="forgot">Forgot</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reset">Reset</string>
+    <string name="note">Note</string>
+    <string name="notes">Notes</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="sort">Sort</string>
+    <string name="refresh">Refresh</string>
+    <string name="date_created">Date created</string>
+    <string name="date_modified">Date modified</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+    <string name="create_note">Create Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note">Delete note</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="cancel">Cancel</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="photo">Photo</string>
+    <string name="change_your_profile_picture">Change your profile picture</string>
+    <string name="name">Name</string>
+
+    <!-- DEBUG -->
+    <string name="session_token">Session token</string>
+    <string name="debug">Debug</string>
+    <string name="toggle_debugging">Toggle debugging</string>
+
+    <!-- KEYS -->
+    <string name="key_pref_debug">pref_debug</string>
+    <string name="key_pref_profile_photo">pref_profile_photo</string>
+    <string name="key_pref_session_token">pref_session_token</string>
+    <string name="key_pref_email">pref_email</string>
+    <string name="key_pref_name">pref_name</string>
+
+</resources>
